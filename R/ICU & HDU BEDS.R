@@ -16,7 +16,7 @@ driver <-
   )
 remote_driver <- driver[["client"]]
 remote_driver$navigate(url)
-
+Sys.sleep(10)
 html1 <- remote_driver$findElement(using = 'xpath', '//*[@id="root"]/div/div/div[2]/div/table')
 
 data <- html1$getElementAttribute('outerHTML')[[1]]
