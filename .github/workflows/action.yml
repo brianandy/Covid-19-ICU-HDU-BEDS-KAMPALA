@@ -1,0 +1,46 @@
+on:
+  schedule:
+    - cron: '*0 * * * *'
+
+name: scrape-data
+
+
+jobs:
+  deploy-scraper:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@master
+      
+      - name: Cache R packages
+        id: cache
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-packages_v1
+          restore-keys: |
+            ${{ runner.os }}-
+            
+      - name: Install packages
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          install.packages(c("RSelenium", "XML","dplyr"), type = "binary")
+        shell: Rscript {0}
+        
+        
+      - name: scrape data from web
+      
+        run: |
+         source("R/ICU & HDU BEDS.R")
+         
+        shell: Rscript {0}
+        
+        
+      - name: Commit files
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add --all
+          git commit -am "update every hour"
+          git push 
+        
