@@ -1,6 +1,5 @@
 #loading packages
 library(RSelenium)
-library(lubridate)
 library(XML)
 library(dplyr)
 
@@ -25,8 +24,14 @@ data <- html1$getElementAttribute('outerHTML')[[1]]
 
 data <- readHTMLTable(data, header = TRUE, as.data.frame = TRUE)[[1]]
 
-s <- with_tz(Sys.time(), tzone = 'GMT+3')
+data <- data %>% mutate(Date= paste0(Sys.time()))
 
-write.csv(s,'time.csv', row.names = F)
+data <- data[,c(6,1:5)]
+
+original_data <- read.csv('./Datasets/Dataset1.csv')
+
+updated <- rbind(original_data,data)
+
+write.csv(updated,'./Datasets/Dataset1.csv',row.names = FALSE)
 
 write.csv(data, paste0('Datasets/', format(Sys.time(), "%d-%b-%Y %H.%M"), ".csv"), row.names = FALSE)
