@@ -1,5 +1,6 @@
 #loading packages
 library(RSelenium)
+library(lubridate)
 library(XML)
 library(dplyr)
 
@@ -23,5 +24,9 @@ data <- html1$getElementAttribute('outerHTML')[[1]]
 
 
 data <- readHTMLTable(data, header = TRUE, as.data.frame = TRUE)[[1]]
+
+s <- with_tz(Sys.time(), tzone = 'GMT+3')
+
+write.csv(s,'time.csv', row.names = F)
 
 write.csv(data, paste0('Datasets/', format(Sys.time(), "%d-%b-%Y %H.%M"), ".csv"), row.names = FALSE)
