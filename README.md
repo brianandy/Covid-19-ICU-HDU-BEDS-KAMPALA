@@ -13,7 +13,7 @@ The association of anesthesiologists in Uganda has made the Data on ICU & HUD Be
 dashboard http://www.anesthesiaug.org/kampala-covid-19-icu-bed-dashboard/ incase they need to use it.
 
 I felt this Data could to mazing in fields of research and for Datascientist, Data analysts that would want to create stories with the Data.
-So i developed a workflow that scrapes Data from the association of anesthesiologists in Uganda website on a hourly basis everyday and its saved and named according 
+So i developed a workflow that scrapes Data from the association of anesthesiologists in Uganda website on a hourly basis everyday and its saved with a column Date named according 
 to the datetime it was scraped to the Datasets Folder in a CSV format. The time at which the data was scraped is in 24HRS format and its in the UTC time Zone.
 
 Note: the first datasets scraped on 6th, 7th and 8th July 2021 were scraped on a daily basis but then this changed from 9th July 2021 were it was now scraped on an hourly basis to track any change within the hour.
