@@ -28,7 +28,7 @@ jobs:
       - name: Install packages
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
-          install.packages(c("RSelenium", "XML","dplyr","lubridate"), type = "binary")
+          install.packages(c("RSelenium", "XML","tidyverse"), type = "binary")
         shell: Rscript {0}
         
         
