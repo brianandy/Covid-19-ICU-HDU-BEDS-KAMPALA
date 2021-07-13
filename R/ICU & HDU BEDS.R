@@ -43,5 +43,3 @@ colnames(original_data) <-
 updated <- rbind(original_data, data)
 
 write.csv(updated, './Datasets/Dataset.csv', row.names = FALSE)
-
-write.csv(data, paste0('Datasets/', format(Sys.time(), "%d-%b-%Y %H.%M"), ".csv"), row.names = FALSE)
