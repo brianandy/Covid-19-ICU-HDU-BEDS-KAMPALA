@@ -24,14 +24,24 @@ data <- html1$getElementAttribute('outerHTML')[[1]]
 
 data <- readHTMLTable(data, header = TRUE, as.data.frame = TRUE)[[1]]
 
-data <- data %>% mutate(Date= paste0(Sys.time()))
+data <- data %>% mutate(Date = paste0(Sys.time()))
 
-data <- data[,c(6,1:5)]
+data <- data[, c(6, 1:5)]
 
-original_data <- read.csv('./Datasets/Dataset1.csv')
+original_data <- read.csv('./Datasets/Dataset.csv')
 
-updated <- rbind(original_data,data)
+colnames(original_data) <-
+  c(
+    "Date",
+    "Hospital",
+    "Respiratory support offered",
+    "Bed capacity",
+    "Beds available",
+    "Waiting numbers"
+  )
 
-write.csv(updated,'./Datasets/Dataset1.csv',row.names = FALSE)
+updated <- rbind(original_data, data)
+
+write.csv(updated, './Datasets/Dataset.csv', row.names = FALSE)
 
 write.csv(data, paste0('Datasets/', format(Sys.time(), "%d-%b-%Y %H.%M"), ".csv"), row.names = FALSE)
