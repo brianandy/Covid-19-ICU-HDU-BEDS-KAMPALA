@@ -21,7 +21,6 @@ html1 <- remote_driver$findElement(using = 'xpath', '//*[@id="root"]/div/div/div
 
 data <- html1$getElementAttribute('outerHTML')[[1]]
 
-
 data <- readHTMLTable(data, header = TRUE, as.data.frame = TRUE)[[1]]
 
 data <- data %>% mutate(Date = paste0(Sys.time()))
