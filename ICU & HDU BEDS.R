@@ -27,20 +27,6 @@ data <- data %>% mutate(Date = paste0(Sys.time()))
 
 data <- data[, c(6, 1:5)]
 
-# original_data <- read.csv('./Datasets/Dataset.csv')
-# 
-# colnames(original_data) <-
-#   c(
-#     "Date",
-#     "Hospital",
-#     "Respiratory support offered",
-#     "Bed capacity",
-#     "Beds available",
-#     "Waiting numbers"
-#   )
-# 
-# updated <- rbind(original_data, data)
 
 write.csv(data, './Datasets/update.csv', row.names = FALSE)
 
-# write.csv(updated, './Datasets/Dataset.csv', row.names = FALSE)
