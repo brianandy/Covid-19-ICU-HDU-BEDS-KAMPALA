@@ -41,4 +41,6 @@ colnames(original_data) <-
 
 updated <- rbind(original_data, data)
 
+write.csv(data, './Datasets/update.csv', row.names = FALSE)
+
 write.csv(updated, './Datasets/Dataset.csv', row.names = FALSE)
