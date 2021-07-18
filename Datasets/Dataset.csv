@@ -2323,7 +2323,223 @@
 "2021-07-17 14:03:01","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
 "2021-07-17 14:03:01","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
 "2021-07-17 14:03:01","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
-"2021-07-17 14:03:01","Mengo Hospital","HFO & NIV","4 ICU","FULL",""
-"2021-07-17 14:03:01","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",""
-"2021-07-17 14:03:01","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",""
-"2021-07-17 14:03:01","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",""
+"2021-07-17 14:03:01","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-17 14:03:01","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-17 14:03:01","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-17 14:03:01","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-17 15:03:05","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-17 15:03:05","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-17 15:03:05","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-17 15:03:05","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-17 15:03:05","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-17 15:03:05","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-17 15:03:05","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-17 15:03:05","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-17 15:03:05","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-17 15:03:05","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-17 15:03:05","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-17 15:03:05","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-17 16:04:07","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-17 16:04:07","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-17 16:04:07","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-17 16:04:07","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-17 16:04:07","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-17 16:04:07","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-17 16:04:07","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-17 16:04:07","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-17 16:04:07","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-17 16:04:07","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-17 16:04:07","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-17 16:04:07","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-17 17:12:23","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-17 17:12:23","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-17 17:12:23","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-17 17:12:23","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-17 17:12:23","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-17 17:12:23","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-17 17:12:23","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-17 17:12:23","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-17 17:12:23","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-17 17:12:23","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-17 17:12:23","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-17 17:12:23","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-17 18:03:07","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-17 18:03:07","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-17 18:03:07","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-17 18:03:07","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-17 18:03:07","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-17 18:03:07","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-17 18:03:07","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-17 18:03:07","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-17 18:03:07","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-17 18:03:07","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-17 18:03:07","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-17 18:03:07","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-17 19:03:07","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-17 19:03:07","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-17 19:03:07","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-17 19:03:07","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-17 19:03:07","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-17 19:03:07","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-17 19:03:07","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-17 19:03:07","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-17 19:03:07","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-17 19:03:07","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-17 19:03:07","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-17 19:03:07","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-17 20:03:07","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-17 20:03:07","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-17 20:03:07","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-17 20:03:07","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-17 20:03:07","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-17 20:03:07","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-17 20:03:07","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-17 20:03:07","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-17 20:03:07","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-17 20:03:07","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-17 20:03:07","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-17 20:03:07","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-17 21:02:55","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-17 21:02:55","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-17 21:02:55","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-17 21:02:55","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-17 21:02:55","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-17 21:02:55","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-17 21:02:55","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-17 21:02:55","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-17 21:02:55","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-17 21:02:55","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-17 21:02:55","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-17 21:02:55","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-17 22:03:14","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-17 22:03:14","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-17 22:03:14","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-17 22:03:14","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-17 22:03:14","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-17 22:03:14","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-17 22:03:14","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-17 22:03:14","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-17 22:03:14","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-17 22:03:14","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-17 22:03:14","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-17 22:03:14","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-17 23:03:28","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-17 23:03:28","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-17 23:03:28","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-17 23:03:28","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-17 23:03:28","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-17 23:03:28","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-17 23:03:28","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-17 23:03:28","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-17 23:03:28","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-17 23:03:28","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-17 23:03:28","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-17 23:03:28","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-18 00:13:42","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-18 00:13:42","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-18 00:13:42","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-18 00:13:42","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-18 00:13:42","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-18 00:13:42","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-18 00:13:42","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-18 00:13:42","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-18 00:13:42","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-18 00:13:42","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-18 00:13:42","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-18 00:13:42","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-18 01:49:35","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-18 01:49:35","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-18 01:49:35","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-18 01:49:35","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-18 01:49:35","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-18 01:49:35","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-18 01:49:35","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-18 01:49:35","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-18 01:49:35","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-18 01:49:35","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-18 01:49:35","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-18 01:49:35","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-18 02:20:28","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-18 02:20:28","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-18 02:20:28","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-18 02:20:28","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-18 02:20:28","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-18 02:20:28","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-18 02:20:28","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-18 02:20:28","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-18 02:20:28","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-18 02:20:28","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-18 02:20:28","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-18 02:20:28","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-18 03:03:20","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-18 03:03:20","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-18 03:03:20","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-18 03:03:20","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-18 03:03:20","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-18 03:03:20","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-18 03:03:20","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-18 03:03:20","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-18 03:03:20","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-18 03:03:20","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-18 03:03:20","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-18 03:03:20","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-18 04:04:21","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-18 04:04:21","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-18 04:04:21","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-18 04:04:21","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-18 04:04:21","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-18 04:04:21","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-18 04:04:21","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-18 04:04:21","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-18 04:04:21","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-18 04:04:21","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-18 04:04:21","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-18 04:04:21","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-18 06:03:16","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-18 06:03:16","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-18 06:03:16","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-18 06:03:16","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-18 06:03:16","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-18 06:03:16","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-18 06:03:16","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-18 06:03:16","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-18 06:03:16","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-18 06:03:16","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-18 06:03:16","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-18 06:03:16","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-18 07:05:17","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-18 07:05:17","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-18 07:05:17","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-18 07:05:17","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-18 07:05:17","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-18 07:05:17","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-18 07:05:17","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-18 07:05:17","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-18 07:05:17","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-18 07:05:17","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-18 07:05:17","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-18 07:05:17","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-18 08:02:49","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-18 08:02:49","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-18 08:02:49","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-18 08:02:49","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-18 08:02:49","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-18 08:02:49","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-18 08:02:49","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-18 08:02:49","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-18 08:02:49","Mengo Hospital","HFO & NIV","4 ICU","FULL",NA
+"2021-07-18 08:02:49","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",NA
+"2021-07-18 08:02:49","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",NA
+"2021-07-18 08:02:49","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",NA
+"2021-07-18 09:03:06","Nakasero hospital ltd","IMV & NIV","4 ICU/ 12 HDU","5 HDU","0"
+"2021-07-18 09:03:06","Kampala hospital ltd","IMV & NIV","4 ICU","2 ICU","0"
+"2021-07-18 09:03:06","International hospital kampala","IMV & NIV","4 ICU&3HDU","2 ICU","0"
+"2021-07-18 09:03:06","Medipal international hospital","HFO, NIV & IMV","9 ICU","3 ICU","0"
+"2021-07-18 09:03:06","TMR international hospital","NIV, IMV","17 ICU & 24HDU","4 ICU","0"
+"2021-07-18 09:03:06","Case medical centre","NIV, IMV","7 ICU","2 ICU","0"
+"2021-07-18 09:03:06","Norvik Hospital","NIV, IMV","5 ICU","FULL","0"
+"2021-07-18 09:03:06","Platinum hospital","NIV, IMV","4 ICU","1 ICU","0"
+"2021-07-18 09:03:06","Mengo Hospital","HFO & NIV","4 ICU","FULL",""
+"2021-07-18 09:03:06","Nsambya hospital","NIV, IMV","6 ICU","3 ICU",""
+"2021-07-18 09:03:06","Rubaga Hospital","NIV, IMV","3 ICU","1 ICU",""
+"2021-07-18 09:03:06","UMC Victoria Hospital","NIV, IMV","7 ICU & 7 HDU","FULL",""
