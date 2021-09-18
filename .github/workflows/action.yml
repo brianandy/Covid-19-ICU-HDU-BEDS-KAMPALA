@@ -1,6 +1,7 @@
 on:
-  schedule:
-    - cron: "0 * * * *"
+  #schedule:
+   # - cron: "0 * * * *"
+   push
 
 
 name: scrape-data
